@@ -1,17 +1,13 @@
-# NOIR Barber Studio — premium demo
+# BARBER'S PLACE — preview
 
-Ovo je prodajni demo koji možeš pokazati barber shopovima i frizerskim salonima.
+Neuradni prodajni demo koncept za BARBER'S PLACE, Ljubljana.
 
-## Kako ga koristiti
-1. Upload folder na GitHub repo.
-2. Poveži repo na Vercel.
-3. Pošalji link potencijalnom klijentu.
-4. Ako klijent pristane, zamijeni ime, broj telefona, adresu, cijene, slike i booking link.
+## Objavi na Vercel
+1. Ustvari GitHub repo `barbers-place-preview`.
+2. Naloži `index.html` v root repozitorija.
+3. Na Vercelu izberi Add New → Project → Import.
+4. Framework Preset: Other.
+5. Deploy.
 
-## Brze izmjene
-- Ime firme: traži `NOIR` u `index.html`
-- WhatsApp: zamijeni `https://wa.me/?text=...` sa `https://wa.me/386XXXXXXXX?text=...`
-- Telefon: zamijeni `+38600000000`
-- Cijene i radno vrijeme: direktno u HTML-u
-
-Demo ne tvrdi da predstavlja stvarnu firmu.
+## Pomembno
+Pred uradno objavo mora lastnik potrditi cenik, kontaktne podatke, delovni čas, vsebine in dovoljenje za uporabo blagovne znamke.
